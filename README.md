@@ -18,9 +18,7 @@
 
 ## Création de nouveaux utilisateurs
 
-> Tous les utilisateurs doivent pouvoir 
-    * se loguer sur le site d'administration
-    * deposer une nouvelle demande de travaux. 
+> Tous les utilisateurs doivent pouvoir: 1) se loguer sur le site d'administration, et 2) deposer une nouvelle demande de travaux. 
 
 * Creation d'un nouvel utilisateur
 * Activation de l'attribut "is_staff" (possibilité d'accéder au menu d'administration)
