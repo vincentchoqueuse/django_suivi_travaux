@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:demandes"
+      name = "demandes">
+      <FileRef
+         location = "group:__init__.py">
+      </FileRef>
+      <Group
+         location = "group:__pycache__"
+         name = "__pycache__">
+         <FileRef
+            location = "group:__init__.cpython-34.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:admin.cpython-34.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:models.cpython-34.pyc">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:admin.py">
+      </FileRef>
+      <Group
+         location = "group:migrations"
+         name = "migrations">
+         <FileRef
+            location = "group:__init__.py">
+         </FileRef>
+         <Group
+            location = "group:__pycache__"
+            name = "__pycache__">
+            <FileRef
+               location = "group:0001_initial.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0002_auto_20180426_1635.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0002_demande.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0003_auto_20180426_0939.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0004_demande_commentaire.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0005_auto_20180426_0959.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0006_auto_20180426_1547.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0007_auto_20180426_1554.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0008_auto_20180426_1615.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:0009_auto_20180426_1628.cpython-34.pyc">
+            </FileRef>
+            <FileRef
+               location = "group:__init__.cpython-34.pyc">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:models.py">
+      </FileRef>
+      <FileRef
+         location = "group:tests.py">
+      </FileRef>
+      <FileRef
+         location = "group:views.py">
+      </FileRef>
+      <FileRef
+         location = "group:apps.py">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:site_travaux"
+      name = "site_travaux">
+      <FileRef
+         location = "group:__init__.py">
+      </FileRef>
+      <Group
+         location = "group:__pycache__"
+         name = "__pycache__">
+         <FileRef
+            location = "group:__init__.cpython-34.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:settings.cpython-34.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:urls.cpython-34.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:wsgi.cpython-34.pyc">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:settings.py">
+      </FileRef>
+      <FileRef
+         location = "group:urls.py">
+      </FileRef>
+      <FileRef
+         location = "group:wsgi.py">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "container:manage.py">
+   </FileRef>
+</Workspace>
